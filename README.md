@@ -1,0 +1,1 @@
+Program to use JavaFX to create a gui with a top bar and menu. The menu has four items: the first gets the current time and date. The second prints the time and date to a text file "log.txt". Third, the background changes to a random hue of orange. Fourth, the button exits the program.
